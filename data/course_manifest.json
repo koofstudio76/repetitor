@@ -1,0 +1,14 @@
+{
+  "course": "Обществознание",
+  "version": "0.1",
+  "passing_score": 9,
+  "test_question_count": 10,
+  "blocks": [
+    {"id": "chelovek_i_obshchestvo", "title": "Человек и общество", "file": "data/chelovek_i_obshchestvo.json"},
+    {"id": "duhovnaya_kultura", "title": "Духовная культура", "file": "data/duhovnaya_kultura.json"},
+    {"id": "ekonomika", "title": "Экономика", "file": "data/ekonomika.json"},
+    {"id": "socialnye_otnosheniya", "title": "Социальные отношения", "file": "data/socialnye_otnosheniya.json"},
+    {"id": "politika", "title": "Политика", "file": "data/politika.json"},
+    {"id": "pravo", "title": "Право", "file": "data/pravo.json"}
+  ]
+}
